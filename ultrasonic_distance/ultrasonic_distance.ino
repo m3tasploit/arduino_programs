@@ -1,5 +1,5 @@
-#define trigPin 2
-#define echoPin 3
+#define trigPin 10
+#define echoPin 11
 
 
 void setup()

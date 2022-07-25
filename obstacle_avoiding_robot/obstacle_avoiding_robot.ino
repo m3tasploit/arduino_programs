@@ -33,7 +33,7 @@ void loop()
   Serial.print(distance);
   Serial.print("cm    \n");
   
-  if(distance < 20 )
+  if(distance < 50 )
   {
    
     
